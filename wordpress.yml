@@ -34,7 +34,8 @@
         - {'regexp': "define\\( 'DB_NAME', '(.)+' \\);", 'line': "define( 'DB_NAME', 'wordpress' );"}
         - {'regexp': "define\\( 'DB_USER', '(.)+' \\);", 'line': "define( 'DB_USER', 'wordpress' );"}
         - {'regexp': "define\\( 'DB_PASSWORD', '(.)+' \\);", 'line': "define( 'DB_PASSWORD', 'wordpress123' );"}
-        - {'regexp': "define\\( 'DB_HOST', '(.)+' \\);", 'line': "define( 'DB_HOST', 'wordpress.cnwunojhu2of.ap-south-1.rds.amazonaws.com
+        - {'regexp': "define\\( 'DB_HOST', '(.)+' \\);", 'line': "define( 'DB_HOST', 'akash-wordpress.cnwunojhu2of.ap-south-1.rds.amazonaws.com
+
 ' );"}
 
     - name: per
